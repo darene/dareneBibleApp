@@ -1,0 +1,12 @@
+
+.box_book{
+	font-family: Georgia;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+select{
+	font-size: 30px;
+	height: 50px;
+	width: 700px;
+}
